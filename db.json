@@ -1,0 +1,69 @@
+{
+    "users": [
+      {
+        "name": "jeevan",
+        "level": "Easy",
+        "id": 1
+      },
+      {
+        "name": "jon",
+        "level": "Medium",
+        "id": 2
+      },
+      {
+        "name": "anu",
+        "level": "Hard",
+        "id": 3
+      },
+      {
+        "name": "chan",
+        "level": "Easy",
+        "id": 4
+      },
+      {
+        "name": "surendra",
+        "level": "Medium",
+        "id": 5
+      },
+      {
+        "name": "sing",
+        "level": "Easy",
+        "id": 6
+      },
+      {
+        "name": "jee",
+        "level": "Easy",
+        "id": 7
+      },
+      {
+        "name": "manu",
+        "level": "Easy",
+        "id": 8
+      },
+      {
+        "name": "amm",
+        "level": "Medium",
+        "id": 9
+      },
+      {
+        "name": "bss",
+        "level": "Easy",
+        "id": 10
+      },
+      {
+        "name": "aan",
+        "level": "Medium",
+        "id": 11
+      },
+      {
+        "name": "aa",
+        "level": "Hard",
+        "id": 12
+      },
+      {
+        "name": "aaaa",
+        "level": "Easy",
+        "id": 13
+      }
+    ]
+  }
